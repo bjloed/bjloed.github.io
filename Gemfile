@@ -4,9 +4,9 @@ source "https://rubygems.org"
 
 gemspec
 
+#gem "jekyll-theme-chirpy"
 group :test do
   gem "html-proofer", "~> 3.18"
- # gem "jekyll-theme-chirpy"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
